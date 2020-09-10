@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3600" started-at="2020-09-10T11:22:33Z" finished-at="2020-09-10T11:22:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3600" started-at="2020-09-10T11:22:33Z" finished-at="2020-09-10T11:22:37Z">
+      <class name="com.qa.api.get.GETBDDAPPROACHAPI">
+        <test-method status="PASS" signature="getSpaceX_BDD_Approach_Test()[pri:0, instance:com.qa.api.get.GETBDDAPPROACHAPI@780cb77]" name="getSpaceX_BDD_Approach_Test" duration-ms="3566" started-at="2020-09-10T11:22:34Z" finished-at="2020-09-10T11:22:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSpaceX_BDD_Approach_Test -->
+      </class> <!-- com.qa.api.get.GETBDDAPPROACHAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
